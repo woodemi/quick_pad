@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - quick_pad (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - quick_pad (from `.symlinks/plugins/quick_pad/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  quick_pad:
+    :path: ".symlinks/plugins/quick_pad/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  quick_pad: a41d665261c7aa521d9b7918fc5d4618098b1e42
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
